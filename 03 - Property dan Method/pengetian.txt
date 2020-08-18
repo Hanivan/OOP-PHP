@@ -1,0 +1,9 @@
+Property
+- Mempresentasikan data / keadaan dari sebuah object
+- Variabel yang ada di dalam object (Member Variable)
+- Sama seperti variabel di dalam PHP, ditambahkan dengan visibility di depannya
+
+Method
+- Merepresentasikan perilaku dari sebuah object
+- Function yang ada di dalam object
+- Sama seperti function di dalam PHP, ditambah dengan visibility di depannya
